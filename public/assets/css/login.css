@@ -1,0 +1,58 @@
+body {
+    background:#bdbbc0
+ }
+  .card {
+     background: #fbfbfb;
+     border-radius: 8px;
+     box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+     height: 410px;
+     margin: 6rem auto 9.4rem auto;
+     width: 329px;
+ }
+ .card-register {
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 575px;
+    margin: 2.5rem auto 2rem auto;
+    width: 340px;
+ }
+  .card-header {
+     font-family: "Raleway Thin", sans-serif;
+     letter-spacing: 2px;
+     padding-bottom: 23px;
+     padding-top: 13px;
+     text-align: center;
+   }
+  .underline-title {
+     background: -webkit-linear-gradient(right, #39383d, #8b8b8f);
+     height: 2px;
+     margin: 0.5rem auto 0 auto;
+     width: 89px;
+   }
+
+   .submit {
+    background: -webkit-linear-gradient(right, #5d5c61, #615e5f);
+    border: none;
+    border-radius: 21px;
+    box-shadow: 0px 1px 8px #bdbbc0;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 35px;
+    margin: 8px 70px;
+    margin-top: 8px;
+    transition: 0.25s;
+    width: 150px;
+
+ }
+ .submit:hover {
+    background: -webkit-linear-gradient(right, #56545a, #555153);
+    box-shadow: 0px 1px 8px #b287f7;
+ }
+ a {
+    text-decoration: none;
+ }
+ .text-center{
+    font-size: 14px;
+ }
